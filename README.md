@@ -2,6 +2,8 @@
 
 This repository tracks my implementation progress, defensive programming practices, and optimization paths for the lab assignments in Carnegie Mellon University's classic core course: **Introduction to Computer Systems (ICS)**.
 
+Note that this is for self-study reference, not affiliated with CMU.
+
 ## 🛠️ Repository Structure & Current Progress
 
 Each lab is fully encapsulated within its respective directory:
@@ -9,8 +11,8 @@ Each lab is fully encapsulated within its respective directory:
 | Lab Name | Core Focus / Technical Challenge | Status |
 | :--- | :--- | :--- |
 | [📂 datalab](./datalab) | Bit manipulation constraints, IEEE 754 floating-point representation. | Completed |
-| [📂 cachelab](./cachelab) | LRU Cache Simulator implementation, Matrix Transpose optimization via Cache Blocking. | implementing |
-| 📂 malloclab | Custom dynamic memory allocator (Implicit/Explicit lists, Segregated free lists). | Planned |
+| [📂 cachelab](./cachelab) | LRU Cache Simulator implementation, Matrix Transpose optimization via Cache Blocking. | Completed |
+| 📂 malloclab | Custom dynamic memory allocator (Implicit/Explicit lists, Segregated free lists). | implementing |
 | 📂 proxylab | Concurrent, caching web proxy utilizing multi-threading and network sockets. | Planned |
 
 ---
